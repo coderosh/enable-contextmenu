@@ -8,7 +8,7 @@
 
 - Click on the bookmarked link whenever you need to enable contextmenu.
 
-## Code used
+## Code
 
 ```js
 <%- js %>
