@@ -1,3 +1,5 @@
+# Enable Contextmenu
+
 ## Usage
 
 - Drag this link to your bookmarks.
@@ -7,7 +9,7 @@
 
 - Click on the bookmarked link whenever you need to enable contextmenu.
 
-## Code used
+## Code
 
 ```js
 (function enableContextmenu(w) {
