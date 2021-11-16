@@ -1,0 +1,14 @@
+{
+  "name": "enable-contextmenu",
+  "type": "module",
+  "repository": "git@github.com:coderosh/enable-contextmenu.git",
+  "author": "Roshan Acharya <acharyaroshan2357@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "node build.js"
+  },
+  "devDependencies": {
+    "ejs": "^3.1.6",
+    "esbuild": "^0.13.13"
+  }
+}
